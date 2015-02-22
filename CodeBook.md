@@ -28,4 +28,4 @@
 
 ## Data - final
 - finalData
-- finalDataHeaders <- names(finalData)
+- finalDataHeaders
